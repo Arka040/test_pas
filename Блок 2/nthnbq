@@ -1,0 +1,4 @@
+{$mode TP}
+{$R+,B+,X-,I+,GOTO-}
+{$codepage UTF-8}
+{ Путнев Аркадий}
